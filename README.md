@@ -20,15 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 👜 Connect with me
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Tinghow/)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/hao.tien.148/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ting.how)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@haonguyentien4935)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nguyentienhao12.3tpk@gmail.com)
-
-  <a href="https://linkedin.com/in/tinghow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tinghow" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tinghow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tinghow" height="30" width="40" /></a>
 <a href="https://www.facebook.com/hao.tien.148/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hao.tien.148" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ting.how" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ting.how" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@haonguyentien4935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="haonguyentien4935" height="30" width="40" /></a>
