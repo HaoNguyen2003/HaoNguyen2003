@@ -8,6 +8,10 @@ HaoNguyen2003/HaoNguyen2003 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
+## 
+
+  <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dqtnqk8fq/image/upload/v1729838123/430334810_1177982563183368_6337680580620331516_n_mwm7gl.jpg">
+
 ## Connect with me
 <div align="center">
   
