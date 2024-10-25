@@ -54,4 +54,10 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaoNguyen2003&layout=compact&theme=radical)
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaoNguyen2003&show_icons=true&theme=radical" alt="HaoNguyen2003's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaoNguyen2003&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
