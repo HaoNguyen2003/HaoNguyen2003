@@ -42,19 +42,12 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-
-
 <div align="center">
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/HaoNguyen2003/HaoNguyen2003/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaoNguyen2003&layout=compact&theme=dark)](https://github.com/yourusername/github-readme-stats)
 
-<div align="center">
-  [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaoNguyen2003&show_icons=true&theme=radical)](https://github.com/HaoNguyen2003)
-  [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaoNguyen2003&show_icons=true&theme=tokyonight)](https://github.com/HaoNguyen2003)
-  [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaoNguyen2003&show_icons=true&theme=onedark)](https://github.com/HaoNguyen2003)
-  [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaoNguyen2003&show_icons=true&theme=gruvbox)](https://github.com/HaoNguyen2003)
-</div>
+
 
 
