@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://www.pinterest.com/pin/37858453112090139/" alt="Pinterest GIF Banner" style="width: 100%; max-height: 300px;">
+    <img src="https://i.pinimg.com/originals/3c/31/c8/3c31c8503d9e31400e96d4b90b93c141.gif" alt="Pinterest GIF Banner" style="width: 100%; max-height: 300px;">
 </div>
 
 ## 🏄‍♂️ TingHow
