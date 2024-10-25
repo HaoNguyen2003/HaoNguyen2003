@@ -1,4 +1,4 @@
-## Hi There 👋
+## 🏄‍♂️ TingHow
 - 👋 Hi, I’m Tiến Hảo nè
 - 👀 I’m interested in Web API and Mobile Application
 - 🌱 I’m currently learning mathematics and computer science
@@ -7,18 +7,18 @@
 HaoNguyen2003/HaoNguyen2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## my favorite song
+## 🎼 my favorite song
 
 [![my favorite song](https://spotify-recently-played-readme.vercel.app/api?user=31onhr2zp5nfcn7xsmgcdknkuzae&count=2)](https://open.spotify.com/collection/tracks)
 
 
-## My School
+## 🏫 My School
 <div align="center">
     <img align="center" alt="Coding" width="auto" src="https://res.cloudinary.com/dqtnqk8fq/image/upload/v1729838123/430334810_1177982563183368_6337680580620331516_n_mwm7gl.jpg">
 </div>
 
 
-## Connect with me
+## 👜 Connect with me
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Tinghow/)
@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nguyentienhao12.3tpk@gmail.com)
 </div>
 
-## Technology Stack
+## 🧰 Technology Stack
 <div align="center">
   
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -53,22 +53,22 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## Snake
+## 🐍 Snake
 
 <div align="center">
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/HaoNguyen2003/HaoNguyen2003/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-##
+## 🌕 Commit
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-## GitHub Stats
+## ⭐ GitHub Stats
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaoNguyen2003&show_icons=true&theme=tokyonight)](https://github.com/HaoNguyen2003)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaoNguyen2003&layout=compact&theme=radical)
 
 
-## GitHub streak
+## 🎯 GitHub streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HaoNguyen2003)](https://git.io/streak-stats)
