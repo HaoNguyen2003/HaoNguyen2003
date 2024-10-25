@@ -70,7 +70,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaoNguyen2003&layout=compact&theme=radical" style="height: 190px;">
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HaoNguyen2003&theme=cobalt)](https://git.io/streak-stats)
+<div align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaoNguyen2003&theme=cobalt" alt="GitHub Streak">
+</div>
 
 
 
