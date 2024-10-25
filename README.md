@@ -67,19 +67,12 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaoNguyen2003&layout=compact&theme=radical)
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/HaoNguyen2003">
-          <img src="https://github-readme-stats.vercel.app/api?username=HaoNguyen2003&show_icons=true&theme=tokyonight" alt="Your GitHub Stats" height="200">
-        </a>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaoNguyen2003&layout=compact&theme=radical" alt="Top Langs" height="200">
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/HaoNguyen2003">
+    <img src="https://github-readme-stats.vercel.app/api?username=HaoNguyen2003&show_icons=true&theme=tokyonight" alt="Your GitHub Stats" height="200">
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaoNguyen2003&layout=compact&theme=radical" alt="Top Langs" height="200">
 </div>
+
 
 
 
