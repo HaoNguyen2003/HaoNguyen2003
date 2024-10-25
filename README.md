@@ -9,7 +9,6 @@ You can click the Preview link to take a look at your changes.
 
 ## Connect with me
 <div align="center">
-  <h3>Connect with me:</h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Tinghow/)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
@@ -21,8 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Technology Stack
 <div align="center">
-<h3>Technology Stack</h3>
-
+  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
