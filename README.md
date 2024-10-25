@@ -69,6 +69,11 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaoNguyen2003&layout=compact&theme=radical)
 
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaoNguyen2003&show_icons=true&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaoNguyen2003&layout=compact&theme=radical" height="150">
+</div>
+
 
 ## 🎯 GitHub streak
 
