@@ -7,6 +7,7 @@ HaoNguyen2003/HaoNguyen2003 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
+## Connect with me
 <div align="center">
   <h3>Connect with me:</h3>
   
@@ -18,7 +19,7 @@ You can click the Preview link to take a look at your changes.
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nguyentienhao12.3tpk@gmail.com)
 </div>
 
-
+## Technology Stack
 <div align="center">
 <h3>Technology Stack</h3>
 
@@ -43,6 +44,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
+## Snake
+
 <div align="center">
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/HaoNguyen2003/HaoNguyen2003/output/github-contribution-grid-snake-dark.svg" />
 </div>
@@ -53,11 +56,4 @@ You can click the Preview link to take a look at your changes.
 ![HaoNguyen2003's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaoNguyen2003&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaoNguyen2003&layout=compact&theme=radical)
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaoNguyen2003&show_icons=true&theme=radical" alt="HaoNguyen2003's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaoNguyen2003&layout=compact&theme=radical" alt="Top Langs" />
-</p>
 
