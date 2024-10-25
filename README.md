@@ -65,14 +65,11 @@ You can click the Preview link to take a look at your changes.
 
 ## ⭐ GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaoNguyen2003&show_icons=true&theme=tokyonight)](https://github.com/HaoNguyen2003)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaoNguyen2003&layout=compact&theme=radical)
-
 <div style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaoNguyen2003&show_icons=true&theme=tokyonight" style="width: 49%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaoNguyen2003&layout=compact&theme=radical" style="width: 49%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaoNguyen2003&show_icons=true&theme=tokyonight" style="height: 200px; width: 60%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaoNguyen2003&layout=compact&theme=radical" style="height: 200px; width: 40%;">
 </div>
+
 
 
 
