@@ -66,8 +66,8 @@ You can click the Preview link to take a look at your changes.
 ## ⭐ GitHub Stats
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaoNguyen2003&show_icons=true&theme=tokyonight" style="height: 200px; width: 60%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaoNguyen2003&layout=compact&theme=radical" style="height: 200px; width: 40%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaoNguyen2003&show_icons=true&theme=tokyonight" style="height: 200px; width: 58%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaoNguyen2003&layout=compact&theme=radical" style="height: 200px; width: 38%;">
 </div>
 
 
