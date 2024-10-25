@@ -55,3 +55,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaoNguyen2003&layout=compact&theme=radical)
 
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaoNguyen2003&show_icons=true&theme=radical)](https://github.com/HaoNguyen2003)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaoNguyen2003&show_icons=true&theme=tokyonight)](https://github.com/HaoNguyen2003)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaoNguyen2003&show_icons=true&theme=onedark)](https://github.com/HaoNguyen2003)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaoNguyen2003&show_icons=true&theme=gruvbox)](https://github.com/HaoNguyen2003)
