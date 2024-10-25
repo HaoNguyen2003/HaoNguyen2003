@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## my favorite song
 
-[![my favorite song](https://spotify-recently-played-readme.vercel.app/api?user=31onhr2zp5nfcn7xsmgcdknkuzae)](https://open.spotify.com/collection/tracks)
+[![my favorite song](https://spotify-recently-played-readme.vercel.app/api?user=31onhr2zp5nfcn7xsmgcdknkuzae&count=2)](https://open.spotify.com/collection/tracks)
 
 
 ## My School
