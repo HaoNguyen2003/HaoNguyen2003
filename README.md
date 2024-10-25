@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://www.pinterest.com/pin/37858453112090139/" alt="Pinterest GIF Banner" style="width: 100%; max-height: 300px;">
+</div>
+
 ## 🏄‍♂️ TingHow
 - 👋 Hi, I’m Tiến Hảo nè
 - 👀 I’m interested in Web API and Mobile Application
