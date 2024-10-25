@@ -71,7 +71,5 @@ You can click the Preview link to take a look at your changes.
 
 ## 🎯 GitHub streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HaoNguyen2003)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HaoNguyen2003&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HaoNguyen2003&theme=cobalt)](https://git.io/streak-stats)
 
