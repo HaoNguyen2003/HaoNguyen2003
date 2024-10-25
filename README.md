@@ -29,6 +29,15 @@ You can click the Preview link to take a look at your changes.
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nguyentienhao12.3tpk@gmail.com)
 </div>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tinghow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tinghow" height="30" width="40" /></a>
+<a href="https://fb.com/hao.tien.148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hao.tien.148" height="30" width="40" /></a>
+<a href="https://instagram.com/ting.how" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ting.how" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/haonguyentien4935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="haonguyentien4935" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tinghow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tinghow" height="30" width="40" /></a>
+</p>
+
 ## 💻 Technology Stack
 <div align="center">
   
