@@ -47,7 +47,16 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.postman.com/" target="_blank" style="margin-right: 10px;">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
+
+  <a href="https://swagger.io/" target="_blank" style="margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/>
+  </a>
+  
+  <a href="https://reactjs.org/" target="_blank" style="margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 
