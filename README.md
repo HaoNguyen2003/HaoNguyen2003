@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nguyentienhao12.3tpk@gmail.com)
 </div>
 
-## 🧰 Technology Stack
+## 💻 Technology Stack
 <div align="center">
   
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
