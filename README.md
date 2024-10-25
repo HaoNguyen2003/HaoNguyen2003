@@ -1,3 +1,4 @@
+## Hi There 👋
 - 👋 Hi, I’m Tiến Hảo nè
 - 👀 I’m interested in Web API and Mobile Application
 - 🌱 I’m currently learning mathematics and computer science
@@ -57,4 +58,4 @@ You can click the Preview link to take a look at your changes.
 
 ## GitHub streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HaoNguyen2003)](https://git.io/streak-stats)
