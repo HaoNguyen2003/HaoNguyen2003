@@ -59,6 +59,8 @@ You can click the Preview link to take a look at your changes.
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/HaoNguyen2003/HaoNguyen2003/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
+##
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## GitHub Stats
 
