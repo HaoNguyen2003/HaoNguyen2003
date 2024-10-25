@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## my favorite song
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=0V2DfUrZvBuUReS1LFo5ZI)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/collection/tracks)
 ## My School
 <div align="center">
     <img align="center" alt="Coding" width="auto" src="https://res.cloudinary.com/dqtnqk8fq/image/upload/v1729838123/430334810_1177982563183368_6337680580620331516_n_mwm7gl.jpg">
