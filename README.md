@@ -75,5 +75,5 @@ You can click the Preview link to take a look at your changes.
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaoNguyen2003&theme=cobalt" alt="GitHub Streak">
 </div>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=HaoNguyen2003&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
