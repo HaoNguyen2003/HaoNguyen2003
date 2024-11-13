@@ -71,9 +71,10 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaoNguyen2003&layout=compact&theme=radical" style="height: 190px;">
 </div>
 
-<div align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaoNguyen2003&theme=cobalt" alt="GitHub Streak">
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaoNguyen2003&theme=cobalt" alt="GitHub Streak">
+</p>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HaoNguyen2003&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
