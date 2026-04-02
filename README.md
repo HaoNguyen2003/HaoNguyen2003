@@ -1,7 +1,7 @@
 ## 🏄‍♂️ TingHow
-- 👋 Hi, I’m Tiến Hảo nè
-- 👀 I’m interested in Web API and Mobile Application
-- 🌱 I’m currently learning mathematics and computer science
+- 👋 Hi, I’m Tinghow
+- 👀 .NET Backend Developer | Web API
+- 🌱 I graduated with a degree in Mathematics and Computer Science.
 - ⚡ Fun fact: I like Guitar and Music
 - 🌏 My Portfolio: <a href="https://portfolio.tinghow.dev">My Portfolio</a>
 <!---
