@@ -1,4 +1,4 @@
-## 🏄‍♂️ TingHow
+## 💻 TingHow
 - 👋 Hi, I’m Tinghow
 - 👀 .NET Backend Developer | Web API
 - 🌱 I graduated with a degree in Mathematics and Computer Science.
