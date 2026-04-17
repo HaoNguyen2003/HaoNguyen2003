@@ -19,16 +19,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-## 👜 Connect with me
-
-<div align="center">
-<a href="https://linkedin.com/in/tinghow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tinghow" height="30" width="40" /></a>
-<a href="https://www.facebook.com/hao.tien.148/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hao.tien.148" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ting.how" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ting.how" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tinghow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tinghow" height="30" width="40" /></a>
-</div>
-
-
 ## 💻 Technology Stack
 <div align="center">
   
