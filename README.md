@@ -1,7 +1,6 @@
 ## 💻 TingHow
 - 👋 Hi, I’m Tinghow
 - 👀 .NET Backend Developer | Web API
-- 🌱 I graduated with a degree in Mathematics and Computer Science.
 - ⚡ Fun fact: I like Guitar and Music
 - 🌏 My Portfolio: <a href="https://portfolio.tinghow.dev">My Portfolio</a>
 <!---
