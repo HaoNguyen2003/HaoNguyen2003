@@ -50,12 +50,12 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ## ⭐ GitHub Stats
-
+<!--
 <div align="center" style="display: flex; justify-content: center; gap: 20px; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=HaoNguyen2003&show_icons=true&theme=tokyonight" style="height: 190px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaoNguyen2003&layout=compact&theme=radical" style="height: 190px;">
 </div>
-
+-->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaoNguyen2003&theme=cobalt" alt="GitHub Streak">
 </p>
